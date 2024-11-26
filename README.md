@@ -1,5 +1,5 @@
 <h1>Hi there<img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /></h1>
-I'm Cecilia, a software developer who loves solving coding challenges and learning new things.
+I'm Cecilia, a software developer who loves to be challenged and learn new things.
 
 ### About Me
 - 🌱 The last thing I learned was **Kotlin Multiplatform**.
